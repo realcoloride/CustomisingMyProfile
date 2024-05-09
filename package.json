@@ -1,0 +1,15 @@
+{
+  "name": "customisingmyprofile",
+  "version": "1.0.0",
+  "description": "Customising my profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "realcoloride",
+  "license": "MIT",
+  "dependencies": {
+    "@xhayper/discord-rpc": "^1.1.2",
+    "discord-api-types": "^0.37.83"
+  }
+}
